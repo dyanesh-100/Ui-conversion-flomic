@@ -76,7 +76,7 @@ hr{
   }
 .card {
     background-color: rgba(255, 255, 255, 0.3); 
-    width: 420px;
+    width: 30%;
     text-align: center;
     overflow: hidden;
     display: flex;
@@ -231,16 +231,16 @@ hr{
 .sub-product-container{
   display: flex;
   padding-inline: 13vw;
-  gap: 50px;
-  height: 220px;
+  height: 16rem;
   padding-bottom: 50px;
+  justify-content: space-between;
 }
 .sub-product-container img{
   max-width: 100%;
 }
 .sub-product1{
   display: flex;
-  width: 50%;
+  width: 48%;
 }
 .sub-product1 img{
   width: 50%;
@@ -266,7 +266,7 @@ hr{
 
 .sub-product2{
   display: flex;
-  width: 50%;
+  width: 48%;
 }
 .sub-product2 img{
   width: 50%;
@@ -298,6 +298,9 @@ hr{
 }
 .footer-row1 p{
  font-size: 1rem;
+}
+.footer-row1 h2{
+ font-size: 1.4rem;
 }
 .footer-col1{
   width: 45%;
