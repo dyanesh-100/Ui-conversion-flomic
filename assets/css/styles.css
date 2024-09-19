@@ -194,7 +194,7 @@ hr{
     margin-right: 15px;
 }
 
-.side-card-content h2 {
+.side-card-content h3 {
     
     margin: 0;
     color: #333;
@@ -203,7 +203,7 @@ hr{
 .side-card-content p {
     font-size:1rem;
     color: #777;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: "Roboto", sans-serif;
 }
 
@@ -211,9 +211,9 @@ hr{
     color: #5cb85c;
     text-decoration: none;
     font-weight: bold;
-    padding: 8px;
+    padding: 5px;
     border:1px solid #5cb85c;
-    
+    font-size: .8rem;
 }
 .product-conatiner2{
   background-color: #F3F3F3;
@@ -232,7 +232,7 @@ hr{
   display: flex;
   padding-inline: 13vw;
   height: 16rem;
-  padding-bottom: 50px;
+  padding-bottom: 3rem;
   justify-content: space-between;
 }
 .sub-product-container img{
@@ -378,7 +378,7 @@ hr{
     font-size: 2rem;
   }
   .nav-bar{
-    padding: 20px 5.2vw;
+    padding: 0px 5.2vw;
   }
   .logo{
     justify-content: flex-start;
@@ -387,7 +387,7 @@ hr{
     flex-direction: column;
     padding-inline: 5.2vw;
     height: auto; 
-    margin: 30px 0px 70px 0px;
+    margin: 2.5rem 0px 3rem 0px;
 }
   .product-container h2{
     text-align: center;
